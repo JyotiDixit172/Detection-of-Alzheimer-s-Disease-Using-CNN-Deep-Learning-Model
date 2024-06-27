@@ -1,2 +1,2 @@
 # Detection-of-Alzheimer-s-Disease-Using-CNN-Deep-Learning-Model
-Categorized MRI scans into 4 classes Non-, Very mild, Mild,- &amp; Moderate-demented. For input data T1-weighted cross-sectional MRI Scans were used, Data was pre-processed using Grey scaling, Gaussian blur Techniques. Model Architecture consists of 9 Layers and Data Splitting Ratio was 80:10:10 (Training, Testing &amp; Validation). 
+Categorized MRI scans into 4 classes Non-, Very mild, Mild,- &amp; Moderate-demented. For input data T1-weighted cross-sectional MRI Scans were used, Data was pre-processed using Grey scaling, Gaussian blur Techniques. Model Architecture consists of 9 Layers and Data Splitting Ratio was 80:10:10 (Training, Testing &amp; Validation) with prediction accuracy greater than 90%. 
